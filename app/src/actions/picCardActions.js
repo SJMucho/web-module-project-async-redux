@@ -1,5 +1,5 @@
 export const TOGGLE_PIC = "TOGGLE_EDITING";
-eposrt const UPDATE_PIC = "UPDATE_PIC";
+export const UPDATE_PIC = "UPDATE_PIC";
 
 export const toggleEditing = () => {
   return {
