@@ -1,4 +1,4 @@
-import { FETCH_PIC_START, FETCH_PIC_SUCCESS } from "./actions/catPicActions";
+import { FETCH_PIC_START, FETCH_PIC_SUCCESS } from "../actions/catPicActions";
 
 const initialState = {
   jpeg: "Initial cat pic",
